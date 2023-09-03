@@ -1,6 +1,6 @@
 config_package_abc = y
-config_package_lkj is not set
+config_package_lkj =y
 config_package_zxc = y
-config_package_mnb is not set
-config_package_qwer =y
-config_package_poiu is not set
+config_package_mnb = y
+config_package_qwer = y
+config_package_poiu = y
